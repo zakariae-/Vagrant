@@ -1,0 +1,6 @@
+server {
+    listen   80;
+
+    root /var/www/project/public;
+    index index.php index.html index.htm;
+}

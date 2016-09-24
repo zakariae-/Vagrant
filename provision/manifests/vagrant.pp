@@ -1,0 +1,4 @@
+class {
+    'nginx':
+        file => 'default'
+}
